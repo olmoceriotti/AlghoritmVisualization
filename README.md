@@ -2,4 +2,4 @@
 
 A simple visulization of famous algorithms.
 
-![](Sorting/InnsertionSortVisualization/IMG_8541.gif)
+![Insertion sort](/Sorting/InnsertionSortVisualization/IMG_8541.gif)
