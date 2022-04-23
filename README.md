@@ -1,4 +1,4 @@
-# AlghoritmVisualization
+# AlgorithmVisualization
 
 A simple visualization of famous algorithms.
 
